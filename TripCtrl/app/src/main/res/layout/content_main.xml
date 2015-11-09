@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/iv_main_logo"
         android:layout_marginTop="41dp"
-        android:src="@drawable/trip"
+        android:src="@mipmap/ic_launcher"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 

@@ -23,4 +23,5 @@
     <string name="title_activity_novo_usuario">Cadastro de Usuário</string>
     <string name="title_activity_esqueci_senha">Esqueci Senha</string>
     <string name="title_activity_nova_senha">Cadastrar nova senha</string>
+    <string name="title_activity_inicio">Início</string>
 </resources>
