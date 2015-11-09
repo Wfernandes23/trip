@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">TripCtrl</string>
+    <string name="app_name">Trip Control</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="esquecisenha">Esqueci minha senha</string>
+    <string name="novousuario">Novo usuário</string>
+    <string name="logo">Logomarca</string>
+    <string name="nome">Nome</string>
+    <string name="dtnasc">Data de Nascimento</string>
+    <string name="telefone">Telefone</string>
+    <string name="localizacao">Localização</string>
+    <string name="confirmesenha">Confirme a senha</string>
+    <string name="salvar">Salvar</string>
+    <string name="selecioneopcao">Selecione uma opção abaixo para redefinir sua senha:</string>
+    <string name="enviarsms">Enviar um SMS</string>
+    <string name="enviaremail">Enviar um email</string>
+    <string name="usarcodusuario">Usar meu código de usuario</string>
+    <string name="codusuario">Código de usuário</string>
+    <string name="enviar">Enviar</string>
+    <string name="informenovasenha">Informe sua nova senha</string>
+    <string name="title_activity_main">Bem vindo ao trip control</string>
+    <string name="title_activity_novo_usuario">Cadastro de Usuário</string>
+    <string name="title_activity_esqueci_senha">Esqueci Senha</string>
+    <string name="title_activity_nova_senha">Cadastrar nova senha</string>
 </resources>

@@ -4,16 +4,34 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/trip_icon"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name=".MainActivity" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".NovoUsuarioActivity"
+            android:label="@string/title_activity_novo_usuario"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".EsqueciSenhaActivity"
+            android:label="@string/title_activity_esqueci_senha"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".NovaSenhaActivity"
+            android:label="@string/title_activity_nova_senha"
+            android:theme="@style/AppTheme.NoActionBar" >
         </activity>
     </application>
 
